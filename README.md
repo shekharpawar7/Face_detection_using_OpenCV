@@ -43,7 +43,7 @@ applications:
 
 architecture:
 
-![architecture_img](https://github.com/shekharpawar7aaic/face_detection/raw/main/architecture.png)
+![architecture_img](https://github.com/shekharpawar7/Face_detection_using_OpenCV/raw/main/architecture.png)
 
   phase_1: Face Detection
     steps:
@@ -64,13 +64,13 @@ architecture:
 
 dataset_image: 
 
-![Dataset 1 Image](https://github.com/shekharpawar7aaic/face_detection/raw/main/dataset1.png)
-![Dataset 2 Image](https://github.com/shekharpawar7aaic/face_detection/raw/main/dataset2.png)
+![Dataset 1 Image](https://github.com/shekharpawar7/Face_detection_using_OpenCV/raw/main/dataset1.png)
+![Dataset 2 Image](https://github.com/shekharpawar7/Face_detection_using_OpenCV/raw/main/dataset2.png)
 
 result: 
 
-![Output Image](https://github.com/shekharpawar7aaic/face_detection/raw/main/output_1.png)
-![Output Image](https://github.com/shekharpawar7aaic/face_detection/raw/main/output_2.png)
+![Output Image](https://github.com/shekharpawar7/Face_detection_using_OpenCV/raw/main/output_1.png)
+![Output Image](https://github.com/shekharpawar7/Face_detection_using_OpenCV/raw/main/output_2.png)
 
 
 
