@@ -82,3 +82,6 @@ challenges_faced:
   - Overfitting: Ensuring the model generalizes well to unseen data.
   - Hardware Limitations: Training the model on devices with limited computational resources.
 
+req :- opencv-contrib-python
+       opencv-python
+       numpy
